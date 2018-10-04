@@ -1,0 +1,13 @@
+{
+  "name": "mfdf-searchfilmsbydirector",
+  "description": "Polymer element to search for films by director",
+  "main": "mfdf-searchfilmsbydirector.js",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0"
+  },
+  "devDependencies": {
+    "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}
